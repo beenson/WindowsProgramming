@@ -1,0 +1,1 @@
+F:\Project\Drawing\DrawingApp\DrawingApp.csproj;x86

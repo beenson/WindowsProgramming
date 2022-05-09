@@ -1,0 +1,1 @@
+{"Shapes":[{"Id":0,"Type":2,"Left":10.0,"Upper":10.0,"Right":20.0,"Lower":20.0},{"Id":1,"Type":1,"Left":50.0,"Upper":10.0,"Right":60.0,"Lower":20.0},{"Id":2,"Type":3,"Shape1":0,"Shape2":1}]}

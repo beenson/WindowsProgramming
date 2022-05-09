@@ -1,0 +1,10 @@
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\bin\Debug\DrawingForm.exe.config
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\bin\Debug\DrawingForm.exe
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\bin\Debug\DrawingForm.pdb
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.csproj.AssemblyReference.cache
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.Properties.Resources.resources
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.DrawingForm.resources
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.csproj.GenerateResource.cache
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.csproj.CoreCompileInputs.cache
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.exe
+N:\Drive\北科\三上\視窗程式設計\homework\HW7\108590005\Drawing\DrawingForm\obj\Debug\DrawingForm.pdb
